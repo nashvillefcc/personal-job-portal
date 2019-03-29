@@ -1,9 +1,17 @@
 # Personal Job Portal
 
-This project aims to help project collaborators gain a better understanding of the UX research -> UI design -> Full stack development process. This project is currently led by Laura Pinell (github.com/lapinell)
+## Purpose
+
+A. To help junior and junior to midlevel developers more easily find jobs that are targeted at their skill level.
+
+B. This project aims to help project collaborators gain a better understanding of the UX research -> UI design -> Full stack development process. This project is currently led by Laura Pinell (github.com/lapinell)
 
 ## Project Outline
 
-1. UX Research
-1. UI Design
-1. Full-stack development
+1. [Project Timeline](https://github.com/nashvillefcc/personal-job-portal/wikie/Project-Timeline)
+1. [Project Notes](https://github.com/nashvillefcc/personal-job-portal/wiki)
+
+## Updates
+
+This project is currently in Phase 1: UX Research. You can find more information in the [Wiki](https://github.com/nashvillefcc/personal-job-portal/wiki).
+
